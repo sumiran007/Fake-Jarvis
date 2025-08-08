@@ -5,7 +5,7 @@ import os
 import pandas as pd
 import scipy as sp
 import librosa as lb
-
+results = open("results.csv", "a")
 for j in range(1, 2):
     names = ['Sr', 'Su']
     for i in range(1, int((len(os.listdir("Recordings")) + 1)/2)):
@@ -13,8 +13,12 @@ for j in range(1, 2):
         if os.path.exists(file_path):
             print(f"Processing {file_path}...")
             # Load the audio file
-            waveform, sample_rate = ta.load(file_path)
+            waveform, sample_rate = lb.load(file_path)  # Use librosa for now
+            waveformfft = sp.fft.fft(waveform)
             print(f"Waveform shape: {waveform.shape}, Sample rate: {sample_rate}")
+            results.write(f"Waveform shape: {waveform.shape}, Sample rate: {sample_rate},{file_path}\n")
+            print(f"The FFT output is:{waveformfft}")
+            results.write(f"The FFT output is: {waveformfft}\n")
 # Load the audio file - capture both waveform and sample_rate
     #file_path = "Recordings\SrRecording (1).mp3"
         #waveform, sample_rate = lb.load(file_path, sr=22050, mono=True)
@@ -22,4 +26,3 @@ for j in range(1, 2):
 # Print metadata
         print(f"Sample Rate: {sample_rate}")
         print(f"Waveform: {waveform.shape}")
-        print(sp.fft.fft(waveform))
