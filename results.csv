@@ -1,146 +1,124 @@
-Waveform shape: (57154,), Sample rate: 22050,Recordings/SuRecording (1).mp3
-The FFT output is: [ 0.9652188 -0.j          0.01581199+0.12166026j  0.05774619-0.09146988j
- ... -0.04390882+0.0420132j   0.05774619+0.09146988j
-  0.01581199-0.12166026j]
-Waveform shape: (118541,), Sample rate: 22050,Recordings/SuRecording (2).mp3
-The FFT output is: [1.8934258 -0.j         0.13488609-0.04855257j 0.19259119+0.06110567j ...
- 0.17966226-0.10904914j 0.19259119-0.06110567j 0.13488609+0.04855257j]
-Waveform shape: (88377,), Sample rate: 22050,Recordings/SuRecording (3).mp3
-The FFT output is: [ 1.1975087 -0.j         -0.21201326+0.09340754j -0.29873544-0.08833899j
- ... -0.24441203-0.13331728j -0.29873544+0.08833899j
- -0.21201326-0.09340754j]
-Waveform shape: (104253,), Sample rate: 22050,Recordings/SuRecording (4).mp3
-The FFT output is: [ 1.4547371 -0.j         -0.28287303-0.13729668j -0.2308631 -0.00274j
- ... -0.06355819-0.09380564j -0.2308631 +0.00274j
- -0.28287303+0.13729668j]
-Waveform shape: (102665,), Sample rate: 22050,Recordings/SuRecording (5).mp3
-The FFT output is: [ 1.1773067 -0.j         -0.05793703+0.06593309j -0.33664414-0.33583575j
- ... -0.09087594-0.23217535j -0.33664414+0.33583575j
- -0.05793703-0.06593309j]
-Waveform shape: (98961,), Sample rate: 22050,Recordings/SuRecording (6).mp3
-The FFT output is: [1.4970579 -0.j         0.01533105+0.09060877j 0.12559605-0.07438491j ...
- 0.05259826+0.05604339j 0.12559605+0.07438491j 0.01533105-0.09060877j]
-Waveform shape: (112191,), Sample rate: 22050,Recordings/SuRecording (7).mp3
-The FFT output is: [ 1.0622177 -0.j         -0.09395691+0.2418613j  -0.00775799-0.02900055j
- ...  0.09790876-0.04525626j -0.00775799+0.02900055j
- -0.09395691-0.2418613j ]
-Waveform shape: (118541,), Sample rate: 22050,Recordings/SuRecording (8).mp3
-The FFT output is: [ 1.3758545 -0.j         -0.28082716+0.01016736j -0.22121453+0.0533793j
- ... -0.29405355-0.02556869j -0.22121453-0.0533793j
- -0.28082716-0.01016736j]
-Waveform shape: (119070,), Sample rate: 22050,Recordings/SuRecording (9).mp3
-The FFT output is: [ 1.3253456 -0.j         -0.17148593-0.08458012j -0.18420836+0.07986896j
- ... -0.10241397+0.00979188j -0.18420836-0.07986896j
- -0.17148593+0.08458012j]
-Waveform shape: (73030,), Sample rate: 22050,Recordings/SuRecording (10).mp3
-The FFT output is: [ 1.0043559 -0.j         -0.4076363 -0.07491069j -0.09536085-0.10084336j
- ... -0.1182334 +0.04327777j -0.09536085+0.10084336j
- -0.4076363 +0.07491069j]
-Waveform shape: (53450,), Sample rate: 22050,Recordings/SuRecording (11).mp3
-The FFT output is: [ 0.59437424-0.j          0.15693499+0.1524447j  -0.0109812 -0.15829547j
- ... -0.34020886-0.12851875j -0.0109812 +0.15829547j
-  0.15693499-0.1524447j ]
-Waveform shape: (53450,), Sample rate: 22050,Recordings/SuRecording (12).mp3
-The FFT output is: [ 0.7040361 -0.j          0.0406372 -0.01518748j -0.11737511+0.06249404j
- ... -0.02856816-0.2560451j  -0.11737511-0.06249404j
-  0.0406372 +0.01518748j]
-Waveform shape: (58212,), Sample rate: 22050,Recordings/SuRecording (13).mp3
-The FFT output is: [ 0.91316354-0.j         -0.0517431 +0.00658056j  0.29565254+0.11860359j
- ... -0.03759416-0.3411644j   0.29565254-0.11860359j
- -0.0517431 -0.00658056j]
-Waveform shape: (75676,), Sample rate: 22050,Recordings/SuRecording (14).mp3
-The FFT output is: [ 0.64887404-0.j         -0.15372735+0.05037678j -0.1838959 -0.12677057j
- ... -0.2682145 +0.05471258j -0.1838959 +0.12677057j
- -0.15372735-0.05037678j]
-Waveform shape: (60329,), Sample rate: 22050,Recordings/SuRecording (15).mp3
-The FFT output is: [ 0.9047251 -0.j          0.3431525 +0.02354072j -0.03682926+0.04599997j
- ...  0.30730215-0.08682901j -0.03682926-0.04599997j
-  0.3431525 -0.02354072j]
-Waveform shape: (73030,), Sample rate: 22050,Recordings/SuRecording (16).mp3
-The FFT output is: [ 0.92788064-0.j         -0.02744432+0.06750076j  0.00574888-0.00849547j
- ... -0.02274206-0.14066283j  0.00574888+0.00849547j
- -0.02744432-0.06750076j]
-Waveform shape: (68796,), Sample rate: 22050,Recordings/SuRecording (17).mp3
-The FFT output is: [1.2807277 -0.j         0.21066532-0.05597562j 0.10402757-0.07206297j ...
- 0.11509842-0.07623168j 0.10402757+0.07206297j 0.21066532+0.05597562j]
-Waveform shape: (62975,), Sample rate: 22050,Recordings/SuRecording (18).mp3
-The FFT output is: [ 0.8663924 -0.j          0.02835378+0.08079812j -0.03480899+0.06627572j
- ...  0.22910737+0.02239469j -0.03480899-0.06627572j
-  0.02835378-0.08079812j]
-Waveform shape: (63504,), Sample rate: 22050,Recordings/SuRecording (19).mp3
-The FFT output is: [ 0.4676423 -0.j         -0.26368386-0.05050534j -0.29703084+0.06492803j
- ... -0.22269374-0.14274421j -0.29703084-0.06492803j
- -0.26368386+0.05050534j]
-Waveform shape: (57154,), Sample rate: 22050,Recordings/SuRecording (1).mp3
-The FFT output is: [ 0.9652188 -0.j          0.01581199+0.12166026j  0.05774619-0.09146988j
- ... -0.04390882+0.0420132j   0.05774619+0.09146988j
-  0.01581199-0.12166026j]
-Waveform shape: (118541,), Sample rate: 22050,Recordings/SuRecording (2).mp3
-The FFT output is: [1.8934258 -0.j         0.13488609-0.04855257j 0.19259119+0.06110567j ...
- 0.17966226-0.10904914j 0.19259119-0.06110567j 0.13488609+0.04855257j]
-Waveform shape: (88377,), Sample rate: 22050,Recordings/SuRecording (3).mp3
-The FFT output is: [ 1.1975087 -0.j         -0.21201326+0.09340754j -0.29873544-0.08833899j
- ... -0.24441203-0.13331728j -0.29873544+0.08833899j
- -0.21201326-0.09340754j]
-Waveform shape: (104253,), Sample rate: 22050,Recordings/SuRecording (4).mp3
-The FFT output is: [ 1.4547371 -0.j         -0.28287303-0.13729668j -0.2308631 -0.00274j
- ... -0.06355819-0.09380564j -0.2308631 +0.00274j
- -0.28287303+0.13729668j]
-Waveform shape: (102665,), Sample rate: 22050,Recordings/SuRecording (5).mp3
-The FFT output is: [ 1.1773067 -0.j         -0.05793703+0.06593309j -0.33664414-0.33583575j
- ... -0.09087594-0.23217535j -0.33664414+0.33583575j
- -0.05793703-0.06593309j]
-Waveform shape: (98961,), Sample rate: 22050,Recordings/SuRecording (6).mp3
-The FFT output is: [1.4970579 -0.j         0.01533105+0.09060877j 0.12559605-0.07438491j ...
- 0.05259826+0.05604339j 0.12559605+0.07438491j 0.01533105-0.09060877j]
-Waveform shape: (112191,), Sample rate: 22050,Recordings/SuRecording (7).mp3
-The FFT output is: [ 1.0622177 -0.j         -0.09395691+0.2418613j  -0.00775799-0.02900055j
- ...  0.09790876-0.04525626j -0.00775799+0.02900055j
- -0.09395691-0.2418613j ]
-Waveform shape: (118541,), Sample rate: 22050,Recordings/SuRecording (8).mp3
-The FFT output is: [ 1.3758545 -0.j         -0.28082716+0.01016736j -0.22121453+0.0533793j
- ... -0.29405355-0.02556869j -0.22121453-0.0533793j
- -0.28082716-0.01016736j]
-Waveform shape: (119070,), Sample rate: 22050,Recordings/SuRecording (9).mp3
-The FFT output is: [ 1.3253456 -0.j         -0.17148593-0.08458012j -0.18420836+0.07986896j
- ... -0.10241397+0.00979188j -0.18420836-0.07986896j
- -0.17148593+0.08458012j]
-Waveform shape: (73030,), Sample rate: 22050,Recordings/SuRecording (10).mp3
-The FFT output is: [ 1.0043559 -0.j         -0.4076363 -0.07491069j -0.09536085-0.10084336j
- ... -0.1182334 +0.04327777j -0.09536085+0.10084336j
- -0.4076363 +0.07491069j]
-Waveform shape: (53450,), Sample rate: 22050,Recordings/SuRecording (11).mp3
-The FFT output is: [ 0.59437424-0.j          0.15693499+0.1524447j  -0.0109812 -0.15829547j
- ... -0.34020886-0.12851875j -0.0109812 +0.15829547j
-  0.15693499-0.1524447j ]
-Waveform shape: (53450,), Sample rate: 22050,Recordings/SuRecording (12).mp3
-The FFT output is: [ 0.7040361 -0.j          0.0406372 -0.01518748j -0.11737511+0.06249404j
- ... -0.02856816-0.2560451j  -0.11737511-0.06249404j
-  0.0406372 +0.01518748j]
-Waveform shape: (58212,), Sample rate: 22050,Recordings/SuRecording (13).mp3
-The FFT output is: [ 0.91316354-0.j         -0.0517431 +0.00658056j  0.29565254+0.11860359j
- ... -0.03759416-0.3411644j   0.29565254-0.11860359j
- -0.0517431 -0.00658056j]
-Waveform shape: (75676,), Sample rate: 22050,Recordings/SuRecording (14).mp3
-The FFT output is: [ 0.64887404-0.j         -0.15372735+0.05037678j -0.1838959 -0.12677057j
- ... -0.2682145 +0.05471258j -0.1838959 +0.12677057j
- -0.15372735-0.05037678j]
-Waveform shape: (60329,), Sample rate: 22050,Recordings/SuRecording (15).mp3
-The FFT output is: [ 0.9047251 -0.j          0.3431525 +0.02354072j -0.03682926+0.04599997j
- ...  0.30730215-0.08682901j -0.03682926-0.04599997j
-  0.3431525 -0.02354072j]
-Waveform shape: (73030,), Sample rate: 22050,Recordings/SuRecording (16).mp3
-The FFT output is: [ 0.92788064-0.j         -0.02744432+0.06750076j  0.00574888-0.00849547j
- ... -0.02274206-0.14066283j  0.00574888+0.00849547j
- -0.02744432-0.06750076j]
-Waveform shape: (68796,), Sample rate: 22050,Recordings/SuRecording (17).mp3
-The FFT output is: [1.2807277 -0.j         0.21066532-0.05597562j 0.10402757-0.07206297j ...
- 0.11509842-0.07623168j 0.10402757+0.07206297j 0.21066532+0.05597562j]
-Waveform shape: (62975,), Sample rate: 22050,Recordings/SuRecording (18).mp3
-The FFT output is: [ 0.8663924 -0.j          0.02835378+0.08079812j -0.03480899+0.06627572j
- ...  0.22910737+0.02239469j -0.03480899-0.06627572j
-  0.02835378-0.08079812j]
-Waveform shape: (63504,), Sample rate: 22050,Recordings/SuRecording (19).mp3
-The FFT output is: [ 0.4676423 -0.j         -0.26368386-0.05050534j -0.29703084+0.06492803j
- ... -0.22269374-0.14274421j -0.29703084-0.06492803j
- -0.26368386+0.05050534j]
+Waveform shape: (98961,), Sample rate: 22050,Recordings/SrRecording (1).mp3
+The FFT output is: [727.47144  -0.j         -7.1319056+2.2506652j  -8.252786 +4.128963j  ...
+  -8.924185 -4.999628j   -8.252786 -4.128963j   -7.1319056-2.2506652j]
+Waveform shape: (102665,), Sample rate: 22050,Recordings/SrRecording (2).mp3
+The FFT output is: [752.5707   -0.j          -6.6276217+1.6835655j   -8.4002   +1.8115535j
+ ...  -9.849412 -0.31833512j  -8.4002   -1.8115535j
+  -6.6276217-1.6835655j ]
+Waveform shape: (118012,), Sample rate: 22050,Recordings/SrRecording (3).mp3
+The FFT output is: [866.1036  -0.j          -7.033034+1.5150797j   -7.120359+0.37468034j ...
+  -8.123911-0.49926788j  -7.120359-0.37468034j  -7.033034-1.5150797j ]
+Waveform shape: (98961,), Sample rate: 22050,Recordings/SrRecording (4).mp3
+The FFT output is: [727.4424   -0.j         -6.0656495-0.8828627j  -5.236719 -0.8241693j ...
+  -6.9947147+0.86138j    -5.236719 +0.8241693j  -6.0656495+0.8828627j]
+Waveform shape: (85202,), Sample rate: 22050,Recordings/SrRecording (5).mp3
+The FFT output is: [623.2469  -0.j         -11.420562-0.35161477j -10.245983+2.7083101j  ...
+  -9.135634-2.0617685j  -10.245983-2.7083101j  -11.420562+0.35161477j]
+Waveform shape: (98961,), Sample rate: 22050,Recordings/SrRecording (6).mp3
+The FFT output is: [718.4136  -0.j        -12.657761+2.1245272j  -7.932   +3.3203537j ...
+  -8.20947 -2.5823362j  -7.932   -3.3203537j -12.657761-2.1245272j]
+Waveform shape: (85731,), Sample rate: 22050,Recordings/SrRecording (7).mp3
+The FFT output is: [626.5503  -0.j          -8.987771+0.30934453j -11.018231-4.9269557j  ...
+ -11.333268+2.0710232j  -11.018231+4.9269557j   -8.987771-0.30934453j]
+Waveform shape: (78322,), Sample rate: 22050,Recordings/SrRecording (8).mp3
+The FFT output is: [572.43427 -0.j         -4.402456-2.3085468j  -8.908587-3.6968675j ...
+ -10.413414+2.793079j   -8.908587+3.6968675j  -4.402456+2.3085468j]
+Waveform shape: (112720,), Sample rate: 22050,Recordings/SrRecording (9).mp3
+The FFT output is: [819.85944 -0.j        -14.474062-2.061979j  -17.35633 +1.4873061j ...
+ -15.234522-2.1529322j -17.35633 -1.4873061j -14.474062+2.061979j ]
+Waveform shape: (90494,), Sample rate: 22050,Recordings/SrRecording (10).mp3
+The FFT output is: [667.1292   -0.j          -5.649524 +0.09716716j  -4.3382397+2.0753355j
+ ...  -6.454774 -2.7459965j   -4.3382397-2.0753355j
+  -5.649524 -0.09716716j]
+Waveform shape: (89435,), Sample rate: 22050,Recordings/SrRecording (11).mp3
+The FFT output is: [651.1608  -0.j        -11.07821 +2.1833155j -12.435785+1.2905351j ...
+ -11.307474-1.6172105j -12.435785-1.2905351j -11.07821 -2.1833155j]
+Waveform shape: (111662,), Sample rate: 22050,Recordings/SrRecording (12).mp3
+The FFT output is: [814.27673 -0.j         -14.341278+0.25329813j -13.628439+2.712818j   ...
+ -11.910942-0.39527243j -13.628439-2.712818j   -14.341278-0.25329813j]
+Waveform shape: (120129,), Sample rate: 22050,Recordings/SrRecording (13).mp3
+The FFT output is: [870.79504  -0.j         -9.234616 +2.6344736j  -8.962654 -0.6205877j ...
+ -14.5987835+2.0667994j  -8.962654 +0.6205877j  -9.234616 -2.6344736j]
+Waveform shape: (145001,), Sample rate: 22050,Recordings/SrRecording (14).mp3
+The FFT output is: [1067.0514   -0.j           -7.5726423-0.7890642j
+   -9.400984 +0.08765411j ...   -9.380954 +2.3791413j
+   -9.400984 -0.08765411j   -7.5726423+0.7890642j ]
+Waveform shape: (146589,), Sample rate: 22050,Recordings/SrRecording (15).mp3
+The FFT output is: [ 1.0788673e+03-0.j       -4.7802429e+00-4.362476j
+ -3.2264411e-01-5.170766j ...  1.9621006e+00+4.694284j
+ -3.2264411e-01+5.170766j -4.7802429e+00+4.362476j]
+Waveform shape: (118541,), Sample rate: 22050,Recordings/SrRecording (16).mp3
+The FFT output is: [875.2392  -0.j         -2.286811-2.7210026j  -6.185945-6.9840746j ...
+ -10.403264+5.5071783j  -6.185945+6.9840746j  -2.286811+2.7210026j]
+Waveform shape: (116954,), Sample rate: 22050,Recordings/SrRecording (17).mp3
+The FFT output is: [ 8.6512097e+02-0.j          3.4684244e-01+0.13954614j
+ -4.3924670e+00-1.1990703j  ... -3.6977501e+00+5.2979755j
+ -4.3924670e+00+1.1990703j   3.4684244e-01-0.13954614j]
+Waveform shape: (59800,), Sample rate: 22050,Recordings/SrRecording (18).mp3
+The FFT output is: [432.9605   -0.j         -9.587523 +3.3287911j  -5.025981 +1.527283j  ...
+  -7.7058144+1.7595499j  -5.025981 -1.527283j   -9.587523 -3.3287911j]
+Waveform shape: (77264,), Sample rate: 22050,Recordings/SrRecording (19).mp3
+The FFT output is: [558.7612  -0.j        -11.650752+0.5558438j -10.417561+0.4641742j ...
+ -10.808987-0.4261787j -10.417561-0.4641742j -11.650752-0.5558438j]
+Waveform shape: (98961,), Sample rate: 22050,Recordings/SrRecording (1).mp3
+The FFT output is: [727.47144  -0.j         -7.1319056+2.2506652j  -8.252786 +4.128963j  ...
+  -8.924185 -4.999628j   -8.252786 -4.128963j   -7.1319056-2.2506652j]
+Waveform shape: (102665,), Sample rate: 22050,Recordings/SrRecording (2).mp3
+The FFT output is: [752.5707   -0.j          -6.6276217+1.6835655j   -8.4002   +1.8115535j
+ ...  -9.849412 -0.31833512j  -8.4002   -1.8115535j
+  -6.6276217-1.6835655j ]
+Waveform shape: (118012,), Sample rate: 22050,Recordings/SrRecording (3).mp3
+The FFT output is: [866.1036  -0.j          -7.033034+1.5150797j   -7.120359+0.37468034j ...
+  -8.123911-0.49926788j  -7.120359-0.37468034j  -7.033034-1.5150797j ]
+Waveform shape: (98961,), Sample rate: 22050,Recordings/SrRecording (4).mp3
+The FFT output is: [727.4424   -0.j         -6.0656495-0.8828627j  -5.236719 -0.8241693j ...
+  -6.9947147+0.86138j    -5.236719 +0.8241693j  -6.0656495+0.8828627j]
+Waveform shape: (85202,), Sample rate: 22050,Recordings/SrRecording (5).mp3
+The FFT output is: [623.2469  -0.j         -11.420562-0.35161477j -10.245983+2.7083101j  ...
+  -9.135634-2.0617685j  -10.245983-2.7083101j  -11.420562+0.35161477j]
+Waveform shape: (98961,), Sample rate: 22050,Recordings/SrRecording (6).mp3
+The FFT output is: [718.4136  -0.j        -12.657761+2.1245272j  -7.932   +3.3203537j ...
+  -8.20947 -2.5823362j  -7.932   -3.3203537j -12.657761-2.1245272j]
+Waveform shape: (85731,), Sample rate: 22050,Recordings/SrRecording (7).mp3
+The FFT output is: [626.5503  -0.j          -8.987771+0.30934453j -11.018231-4.9269557j  ...
+ -11.333268+2.0710232j  -11.018231+4.9269557j   -8.987771-0.30934453j]
+Waveform shape: (78322,), Sample rate: 22050,Recordings/SrRecording (8).mp3
+The FFT output is: [572.43427 -0.j         -4.402456-2.3085468j  -8.908587-3.6968675j ...
+ -10.413414+2.793079j   -8.908587+3.6968675j  -4.402456+2.3085468j]
+Waveform shape: (112720,), Sample rate: 22050,Recordings/SrRecording (9).mp3
+The FFT output is: [819.85944 -0.j        -14.474062-2.061979j  -17.35633 +1.4873061j ...
+ -15.234522-2.1529322j -17.35633 -1.4873061j -14.474062+2.061979j ]
+Waveform shape: (90494,), Sample rate: 22050,Recordings/SrRecording (10).mp3
+The FFT output is: [667.1292   -0.j          -5.649524 +0.09716716j  -4.3382397+2.0753355j
+ ...  -6.454774 -2.7459965j   -4.3382397-2.0753355j
+  -5.649524 -0.09716716j]
+Waveform shape: (89435,), Sample rate: 22050,Recordings/SrRecording (11).mp3
+The FFT output is: [651.1608  -0.j        -11.07821 +2.1833155j -12.435785+1.2905351j ...
+ -11.307474-1.6172105j -12.435785-1.2905351j -11.07821 -2.1833155j]
+Waveform shape: (111662,), Sample rate: 22050,Recordings/SrRecording (12).mp3
+The FFT output is: [814.27673 -0.j         -14.341278+0.25329813j -13.628439+2.712818j   ...
+ -11.910942-0.39527243j -13.628439-2.712818j   -14.341278-0.25329813j]
+Waveform shape: (120129,), Sample rate: 22050,Recordings/SrRecording (13).mp3
+The FFT output is: [870.79504  -0.j         -9.234616 +2.6344736j  -8.962654 -0.6205877j ...
+ -14.5987835+2.0667994j  -8.962654 +0.6205877j  -9.234616 -2.6344736j]
+Waveform shape: (145001,), Sample rate: 22050,Recordings/SrRecording (14).mp3
+The FFT output is: [1067.0514   -0.j           -7.5726423-0.7890642j
+   -9.400984 +0.08765411j ...   -9.380954 +2.3791413j
+   -9.400984 -0.08765411j   -7.5726423+0.7890642j ]
+Waveform shape: (146589,), Sample rate: 22050,Recordings/SrRecording (15).mp3
+The FFT output is: [ 1.0788673e+03-0.j       -4.7802429e+00-4.362476j
+ -3.2264411e-01-5.170766j ...  1.9621006e+00+4.694284j
+ -3.2264411e-01+5.170766j -4.7802429e+00+4.362476j]
+Waveform shape: (118541,), Sample rate: 22050,Recordings/SrRecording (16).mp3
+The FFT output is: [875.2392  -0.j         -2.286811-2.7210026j  -6.185945-6.9840746j ...
+ -10.403264+5.5071783j  -6.185945+6.9840746j  -2.286811+2.7210026j]
+Waveform shape: (116954,), Sample rate: 22050,Recordings/SrRecording (17).mp3
+The FFT output is: [ 8.6512097e+02-0.j          3.4684244e-01+0.13954614j
+ -4.3924670e+00-1.1990703j  ... -3.6977501e+00+5.2979755j
+ -4.3924670e+00+1.1990703j   3.4684244e-01-0.13954614j]
+Waveform shape: (59800,), Sample rate: 22050,Recordings/SrRecording (18).mp3
+The FFT output is: [432.9605   -0.j         -9.587523 +3.3287911j  -5.025981 +1.527283j  ...
+  -7.7058144+1.7595499j  -5.025981 -1.527283j   -9.587523 -3.3287911j]
+Waveform shape: (77264,), Sample rate: 22050,Recordings/SrRecording (19).mp3
+The FFT output is: [558.7612  -0.j        -11.650752+0.5558438j -10.417561+0.4641742j ...
+ -10.808987-0.4261787j -10.417561-0.4641742j -11.650752-0.5558438j]

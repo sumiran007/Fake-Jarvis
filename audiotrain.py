@@ -6,9 +6,10 @@ import pandas as pd
 import scipy as sp
 import librosa as lb
 results = open("results.csv", "a")
-for j in range(1, 2):
+for j in range(0, 1):
     names = ['Sr', 'Su']
-    for i in range(1, int((len(os.listdir("Recordings")) + 1)/2)):
+    print(((len(os.listdir("Recordings")) + 1)//2))
+    for i in range(1, int((len(os.listdir("Recordings")) + 1)//2)):
         file_path = f"Recordings/{names[j]}Recording ({i}).mp3"
         if os.path.exists(file_path):
             print(f"Processing {file_path}...")
@@ -22,7 +23,3 @@ for j in range(1, 2):
 # Load the audio file - capture both waveform and sample_rate
     #file_path = "Recordings\SrRecording (1).mp3"
         #waveform, sample_rate = lb.load(file_path, sr=22050, mono=True)
-
-# Print metadata
-        print(f"Sample Rate: {sample_rate}")
-        print(f"Waveform: {waveform.shape}")
