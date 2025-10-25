@@ -122,3 +122,7 @@ The FFT output is: [432.9605   -0.j         -9.587523 +3.3287911j  -5.025981 +1.
 Waveform shape: (77264,), Sample rate: 22050,Recordings/SrRecording (19).mp3
 The FFT output is: [558.7612  -0.j        -11.650752+0.5558438j -10.417561+0.4641742j ...
  -10.808987-0.4261787j -10.417561-0.4641742j -11.650752-0.5558438j]
+OK,C:\Users\skrac\Documents\MyPersonalProjects\Fake Jarvis\Recordings\SuRecordings1LightsOff.wav,(105627,),44100
+FFT_len,105627
+OK,C:\Users\skrac\Documents\MyPersonalProjects\Fake Jarvis\Recordings\SuRecordings1LightsOff.wav,(105627,),44100
+FFT_len,105627
